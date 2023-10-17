@@ -2,9 +2,9 @@
   "name": "websocket-demo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "ws.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node ws.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
